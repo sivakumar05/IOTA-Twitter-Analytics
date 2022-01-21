@@ -1,4 +1,4 @@
-# IOTA-Twitter-Analytics
+# Twitter-Analytics
 
 This repository contains python framework developed for NLP problems related to twitter data
 1) Topic Modeling
